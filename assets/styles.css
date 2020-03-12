@@ -1,0 +1,16 @@
+/* Project 2: Sort Race - CS335-03
+by Nidhi Shah ( nidhi989@csu.fullerton.edu)& 
+Emily Pham ( tpham523@csu.fullerton.edu)&
+Tai Nguyen ( tainguyen@csu.fullerton.edu)
+
+This CSS file defines font, text alignment and background color for main HTML page.*/
+
+
+
+body {
+  text-align: center;
+  font-family: sans-serif;
+}
+canvas {
+  background-color: black;
+}
